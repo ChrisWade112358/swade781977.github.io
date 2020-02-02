@@ -1,11 +1,11 @@
 # Site settings
 author: Chris Wade
-title: 
+title: Mr Wades Adventures at FlatIron
 header-img: img/home-bg.png
 email: swade781977@yahoo.com
 copyright_name: Chris Wade
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  swade781977
