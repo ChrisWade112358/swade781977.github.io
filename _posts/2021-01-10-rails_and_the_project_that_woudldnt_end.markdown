@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails and the project that woudldn't end"
-date:       2021-01-10 08:35:17 +0000
+date:       2021-01-10 03:35:18 -0500
 permalink:  rails_and_the_project_that_woudldnt_end
 ---
 
