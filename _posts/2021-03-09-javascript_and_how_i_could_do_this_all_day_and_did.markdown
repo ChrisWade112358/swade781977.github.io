@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Javascript and how I could do this all day (and did)"
-date:       2021-03-09 09:26:29 +0000
+date:       2021-03-09 04:26:29 -0500
 permalink:  javascript_and_how_i_could_do_this_all_day_and_did
 ---
 
